@@ -1,1 +1,7 @@
 # Foundations-LandingPage-Project
+
+This is the second project of the Foundations course and will test everything learnt up until this point before progressing on to the Foundations Javascript modules. Project completion will result in a customized landing page similar to the example provided by The Odin Project Foundation course guidelines. 
+
+HTML and CSS will be the primary languages used, with the majority of the page layout completed using Flexbox. As part of this project, free to use images will also be used and credits can be found below. 
+
+Image Rights:
