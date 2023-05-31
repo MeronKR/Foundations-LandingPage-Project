@@ -5,3 +5,4 @@ This is the second project of the Foundations course and will test everything le
 HTML and CSS will be the primary languages used, with the majority of the page layout completed using Flexbox. As part of this project, free to use images will also be used and credits can be found below. 
 
 Image Rights:
+Image 1: https://images.unsplash.com/photo-1483921020237-2ff51e8e4b22?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80 - Erol Ahmed
