@@ -139,3 +139,47 @@ h2 {
     text-align: right;
     font-weight: 700;
 }
+
+.CTA {
+    min-height: 200px;
+    margin: 125px 0;
+}
+
+.CTA .container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color:#E5E7EB;
+    background-color: #3882f6;
+    border-radius: 15px;
+    padding: 0px;
+}
+
+.CTA h3, p {
+    margin:0;
+}
+
+.CTA h3 {
+    font-size: 30px;
+}
+
+.CTA p {
+    font-size: 24px;;
+}
+
+.CTA button {
+    border-radius: 5px;
+    border: 3px solid #F9FAF8;
+    background-color: #3882f6;
+    color:#F9FAF8;
+    padding: 10px 50px;
+    font-size: 24px;
+}
+footer {
+    display: flex;
+    margin-top: auto;
+    justify-content: center;
+    align-items: center;
+    background-color: #1F2937;
+    color: #F9FAF8;
+}
